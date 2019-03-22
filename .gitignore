@@ -1,10 +1,11 @@
 .classpath
+.idea/*
 .checkstyle
 .settings/
 .idea/
 *.log
 *.lck
 *.iml
-target/
+target/*
 *.DS_Store
 *.patchtarget

@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71c6ea1d-8448-47b1-afec-3cbdc7d70b63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/mapr/logstreams/StreamLogs.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mapr/logstreams/StreamLogs$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/mapr/logstreams/StreamLogs.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/OJAI-API-TEST/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/OJAI-API-TEST/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/SparkSampleMySQL/.idea/vcs.xml" afterDir="false" />
@@ -10,6 +24,8 @@
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/java8fun/src/com/genericfun/RandomUnits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/java8fun/src/com/shapes/Triangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spark-Apps/java8fun/src/com/threadsfun/App1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managedservices-master/chicoprograms/src/main/java/com/mapr/chicos/OJAI_001_FindByID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managedservices-master/chicoprograms/src/main/java/com/mapr/chicos/model/TransactionSummaryModel.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mapr-streams/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mapr-streams/src/main/scala/com/mapr/democonsumer/Consumer.scala" afterDir="false" />
     </list>
@@ -47,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="46">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -69,7 +85,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -281,9 +297,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="63" width="1060" height="617" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31434184" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31434184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +312,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7504762" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3082942" />
@@ -371,8 +386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="46">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
