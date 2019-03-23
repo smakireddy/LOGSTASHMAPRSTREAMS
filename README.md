@@ -1,4 +1,5 @@
-```> cat logstash-syslog.conf
+```
+> cat logstash-syslog.conf
 
 input {
   tcp {
