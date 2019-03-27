@@ -1,3 +1,6 @@
+https://mapr.com/support/s/article/Publish-events-from-Logstash-to-MapR-ES?language=en_US
+
+
 ```
 > cat logstash-syslog.conf
 
